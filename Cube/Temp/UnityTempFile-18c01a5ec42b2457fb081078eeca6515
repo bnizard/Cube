@@ -202,6 +202,7 @@
 'Assets/Standard Assets/Vehicles/Aircraft/Scripts/AeroplaneUserControl4Axis.cs'
 'Assets/Standard Assets/Vehicles/Aircraft/Scripts/JetParticleEffect.cs'
 'Assets/Standard Assets/Vehicles/Aircraft/Scripts/LandingGear.cs'
+'Assets/Standard Assets/Vehicles/Aircraft/Scripts/MovingDoor.cs'
 'Assets/Standard Assets/Vehicles/Car/Scripts/BrakeLight.cs'
 'Assets/Standard Assets/Vehicles/Car/Scripts/CarAIControl.cs'
 'Assets/Standard Assets/Vehicles/Car/Scripts/CarAudio.cs'
